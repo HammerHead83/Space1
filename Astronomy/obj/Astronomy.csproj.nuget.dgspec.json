@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Source\\Repos\\Space1\\Astronomy\\Astronomy.csproj": {}
+    "C:\\Users\\Administrator\\source\\repos\\Space1\\Astronomy\\Astronomy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Source\\Repos\\Space1\\Astronomy\\Astronomy.csproj": {
+    "C:\\Users\\Administrator\\source\\repos\\Space1\\Astronomy\\Astronomy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\Space1\\Astronomy\\Astronomy.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\Space1\\Astronomy\\Astronomy.csproj",
         "projectName": "Astronomy",
-        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\Space1\\Astronomy\\Astronomy.csproj",
+        "projectPath": "C:\\Users\\Administrator\\source\\repos\\Space1\\Astronomy\\Astronomy.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\Space1\\Astronomy\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\source\\repos\\Space1\\Astronomy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
